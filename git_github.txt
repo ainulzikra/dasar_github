@@ -4,4 +4,8 @@ Pengertian git dan github dalam system manangement control
    Git adalah sebuah sistem kontrol versi yang digunakan untuk mengelola dan melacak perubahan dalam kode sumber saat bekerja pada proyek perangkat lunak.
 
    Dengan menggunakan Git, pengembang dapat mencatat setiap perubahan yang dilakukan pada file-file proyek, serta dapat dengan mudah membandingkan versi yang berbeda, membatalkan perubahan yang tidak diinginkan, dan berkolaborasi dengan pengembang lainnya.
-   
+
+*) Github
+   GitHub adalah platform hosting yang memungkinkan pengembang untuk menyimpan repositori Git secara online alias git punya si github.
+
+    Ini memberikan berbagai fitur kolaborasi yang berguna, seperti pelacakan isu (issue tracking), permintaan tarik (pull requests), manajemen proyek, dan banyak lagi. GitHub sangat populer di kalangan pengembang perangkat lunak dan digunakan secara luas untuk berkolaborasi dalam pengembangan perangkat lunak open source maupun proyek-proyek propietari. 
