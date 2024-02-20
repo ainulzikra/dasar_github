@@ -1,0 +1,3 @@
+Apa itu Branch 
+
+*) Branch dalam Git adalah salinan atau cabang dari kode utama proyek yang memungkinkan pengembang untuk bekerja pada fitur atau perbaikan bug tanpa mengganggu kode yang ada. Ini seperti membuat salinan aman untuk bereksperimen dengan perubahan tanpa merusak kode asli. Setelah selesai, perubahan dari cabang tersebut bisa digabungkan kembali ke kode utama.
