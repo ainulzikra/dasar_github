@@ -1,0 +1,4 @@
+Bekerja dengan git fork
+Apa itu "Fork" dalam konteks Git mengacu pada membuat salinan independen dari repositori Git yang sudah ada.
+Ketika Anda "meng-fork" repositori, Anda membuat salinan repositori tersebut di akun GitHub atau platform Git lainnya Anda sendiri. 
+Fork biasanya digunakan dalam kolaborasi atau kontribusi pada proyek open source
