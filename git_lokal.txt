@@ -1,0 +1,9 @@
+Mengunakan git local dengan perintah dasar :
+-) perintah mendapatkan repositori git 
+   # git init
+-) perintah cek status
+   # git status
+-) perintah memasukan file ke stage area 
+   # git add .
+-) perintah menyimpan activitas histori commit
+   # git commit -m "masukan coomit yang mau di isi"
