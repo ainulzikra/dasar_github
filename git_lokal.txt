@@ -5,5 +5,7 @@ Mengunakan git local dengan perintah dasar :
    # git status
 -) perintah memasukan file ke stage area 
    # git add .
+-) perintah memasukan satu file ke stage area 
+   # git add "memasukan satu file contoh"
 -) perintah menyimpan activitas histori commit
    # git commit -m "masukan coomit yang mau di isi"
