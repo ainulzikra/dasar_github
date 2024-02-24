@@ -1,0 +1,2 @@
+Apa itu git conflik Merge
+Merged conflik adanya data yang sama di baris yang sama
