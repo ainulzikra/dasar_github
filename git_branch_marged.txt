@@ -7,5 +7,9 @@ Git Branch Dan Marged dalam pengunaan basic perintah
    # git Branch
 -) Lebih simpel pindah langsung ke branch/cabang baru 
    # git checkout -b namabranch
--) menghapus branch/cabang baru 
+-) menghapus branch/cabang baru yang telah di merge
    # git branch -d namaBranch
+-) menghapus branch belum di merge 
+   # git branch -D namaBranch
+-) cara cek branch yang telah di merge 
+   # git branch --merged
