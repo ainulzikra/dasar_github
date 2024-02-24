@@ -1,0 +1,11 @@
+Git Branch Dan Marged dalam pengunaan basic perintah
+-) Membuat branch/cabang baru 
+   # git branch namabranch
+-) Berpindah branch/cabang baru 
+   # git checkout namabranch
+-) Melihat branch/cabang baru 
+   # git Branch
+-) Lebih simpel pindah langsung ke branch/cabang baru 
+   # git checkout -b namabranch
+-) menghapus branch/cabang baru 
+   # git branch -d namaBranch
