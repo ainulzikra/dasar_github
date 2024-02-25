@@ -1,0 +1,11 @@
+Membuat gitignore pada local git
+Pada Git, file .gitignore adalah file konfigurasi yang digunakan untuk memberi tahu 
+tentang file atau direktori mana yang harus diabaikan atau dikecualikan dari penjejakan (tracking) dan manajemen versi.
+Ini berguna ketika Anda ingin mengabaikan file sementara, file log, file sementara yang dihasilkan oleh sistem, 
+file konfigurasi lokal, atau jenis file lainnya yang tidak relevan atau tidak diinginkan untuk disimpan dalam repositori Git.
+
+pilihan lain mengunakan gitignore:
+
+-> mengunakan  "github/gitignore"
+-> mengunakan  "pada saat membuat repo pilih bagigian gitignore"
+-> mengunakan  "gitignore.io" aturan "sistemoperasi,codeeditor,frameyang digunakan"
