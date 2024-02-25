@@ -1,0 +1,21 @@
+membuat perintah repo dari local ke github dengan remote push
+
+*) Git_push
+push adalah perintah yang digunakan dalam sistem kontrol versi Git untuk mengirimkan perubahan lokal yang sudah Anda 
+komit ke repositori Git yang terhubung secara eksternal,
+seperti repositori yang di-hosting di GitHub, GitLab, Bitbucket, atau server Git lainnya.
+
+perintah membuat nama remote
+< git remote add namaRemote <URL repositori>
+
+Perintah push 
+< git push -u <nama-remote> <nama-cabang> jangan lupa -u biar push aja lagi
+
+Perintah mencek perubahan 
+< git fetch adalah perintah yang digunakan dalam sistem kontrol versi Git untuk mengambil semua perubahan terbaru
+ dari repositori remote ke repositori lokal Anda. Namun, perintah git fetch tidak secara otomatis menggabungkan 
+ perubahan tersebut ke dalam cabang lokal yang sedang aktif,
+ seperti yang dilakukan oleh perintah git pull.
+
+ < git fetch "namaremot"
+
